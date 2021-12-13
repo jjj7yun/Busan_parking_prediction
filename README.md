@@ -19,7 +19,7 @@ QGIS기반 부산시 남구 주차장 최적 입지 선정
 
 ## 분석process 
 
-<img src="https://user-images.githubusercontent.com/79688191/145759577-7935f88f-6c04-4680-ba00-971d1b86e130.png" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/79688191/145759577-7935f88f-6c04-4680-ba00-971d1b86e130.png" width="600" height="200"/>
 
 
 ### 회귀분석
@@ -32,13 +32,13 @@ QGIS기반 부산시 남구 주차장 최적 입지 선정
 2. 교통량.py 부산시 api 활용 교통 정보 추출
 3. 우선순위.py 각 격자 별 주차 수요 우선순위 산출
                                                                                                                                          
-<img src="https://user-images.githubusercontent.com/79688191/145759695-e30ca5cd-7d24-44eb-b444-7cd0a087000f.png"  width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/79688191/145759695-e30ca5cd-7d24-44eb-b444-7cd0a087000f.png"  width="600" height="200"/>
                                                                                                                                          
 ### QGIS 기반 시각화
-<img src="https://user-images.githubusercontent.com/79688191/145760501-fabf86fa-156e-4dd5-a4d4-c9446ac939d0.png" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/79688191/145760501-fabf86fa-156e-4dd5-a4d4-c9446ac939d0.png" width="600" height="200"/>
 
 
-<img src="https://user-images.githubusercontent.com/79688191/145760254-5bc641cc-21fc-42fb-baf3-f7d5abf07c26.png" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/79688191/145760254-5bc641cc-21fc-42fb-baf3-f7d5abf07c26.png" width="600" height="200"/>
 
 
 
