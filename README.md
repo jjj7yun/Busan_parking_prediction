@@ -3,6 +3,12 @@
 # Description
 QGIS기반 부산시 남구 주차장 최적 입지 선정
 
+# AWARD
+
+LH 한국토지주택공사 국토도시 데이터 분석 과제 장려상 수상
+![상장](https://user-images.githubusercontent.com/79688191/145766676-9f163d8b-0536-4f6a-8b41-d82ec48f7d91.jpg)
+
+
 ## 분석개요
 주차난 해소에 따른 사회적 편익증가 
 서울시 기준 연간 불법 주차로 인한 사회적 비용 약1323억원, 불법주정차로 인한 차대차 사고 비용 약435억원, 불법 주차로 인해 골든타임 증가로 인한 잠재적 사회적 비용 약 62.5억원
@@ -38,7 +44,6 @@ QGIS기반 부산시 남구 주차장 최적 입지 선정
 <img src="https://user-images.githubusercontent.com/79688191/145760501-fabf86fa-156e-4dd5-a4d4-c9446ac939d0.png" width="600" height="200"/>
 <img src="https://user-images.githubusercontent.com/79688191/145760930-21c528db-dc71-46e5-846c-62b6af4366e5.png" width="200" height="200"/>
 <img src="https://user-images.githubusercontent.com/79688191/145760939-445f5615-fd93-4811-a6cc-329cf3d745b6.png" width="200" height="200"/>
-
 
 
 
