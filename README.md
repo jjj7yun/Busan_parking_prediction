@@ -33,4 +33,22 @@ QGIS기반 부산시 남구 주차장 최적 입지 선정
 
 ![image](https://user-images.githubusercontent.com/79688191/145759695-e30ca5cd-7d24-44eb-b444-7cd0a087000f.png)
 
-![image](https://user-images.githubusercontent.com/79688191/145759714-d71ababc-4eb1-4f64-91f3-1706a66286bb.png)
+### QGIS 기반 시각화
+
+
+![image](https://user-images.githubusercontent.com/79688191/145760209-589725f6-f4cf-4784-9af1-77c02a4e3bc4.png)
+![image](https://user-images.githubusercontent.com/79688191/145760254-5bc641cc-21fc-42fb-baf3-f7d5abf07c26.png)
+
+
+# Usage
+### result 
+ 분석 보고서, ppt, QGIS 실행 파일, 분석 결과 excel 파일
+
+### Data
+ 사용 데이터
+
+### code
+ python code
+1. 위경도.py 도로명주소 기반 위경도 주소 추출
+2. 교통량.py 부산시 api 활용 교통 정보 추출
+3. 우선순위.py 각 격자 별 주차 수요 우선순위 산출
