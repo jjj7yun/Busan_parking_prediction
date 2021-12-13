@@ -3,11 +3,6 @@
 # Description
 QGIS기반 부산시 남구 주차장 최적 입지 선정
 
-# AWARD
-
-LH 한국토지주택공사 국토도시 데이터 분석 과제 장려상 수상
-<img src="https://user-images.githubusercontent.com/79688191/145766676-9f163d8b-0536-4f6a-8b41-d82ec48f7d91.jpg"  width="600" height="700"/>
-
 
 ## 분석개요
 주차난 해소에 따른 사회적 편익증가 
@@ -61,3 +56,10 @@ LH 한국토지주택공사 국토도시 데이터 분석 과제 장려상 수�
 1. 위경도.py 도로명주소 기반 위경도 주소 추출
 2. 교통량.py 부산시 api 활용 교통 정보 추출
 3. 우선순위.py 각 격자 별 주차 수요 우선순위 산출
+
+
+
+# AWARD
+
+LH 한국토지주택공사 국토도시 데이터 분석 과제 장려상 수상
+<img src="https://user-images.githubusercontent.com/79688191/145766676-9f163d8b-0536-4f6a-8b41-d82ec48f7d91.jpg"  width="600" height="700"/>
