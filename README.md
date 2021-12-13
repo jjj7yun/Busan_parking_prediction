@@ -19,7 +19,7 @@ QGIS기반 부산시 남구 주차장 최적 입지 선정
 
 ## 분석process 
 
-<img src="https://user-images.githubusercontent.com/79688191/145759577-7935f88f-6c04-4680-ba00-971d1b86e130.png" width="800" height="200"/>
+<img src="https://user-images.githubusercontent.com/79688191/145759577-7935f88f-6c04-4680-ba00-971d1b86e130.png" width="800" height="400"/>
 
 
 ### 회귀분석
@@ -36,9 +36,9 @@ QGIS기반 부산시 남구 주차장 최적 입지 선정
                                                                                                                                          
 ### QGIS 기반 시각화
 <img src="https://user-images.githubusercontent.com/79688191/145760501-fabf86fa-156e-4dd5-a4d4-c9446ac939d0.png" width="600" height="200"/>
+<img src="https://user-images.githubusercontent.com/79688191/145760930-21c528db-dc71-46e5-846c-62b6af4366e5.png" width="200" height="200"/>
+<img src="https://user-images.githubusercontent.com/79688191/145760939-445f5615-fd93-4811-a6cc-329cf3d745b6.png" width="200" height="200"/>
 
-![image](https://user-images.githubusercontent.com/79688191/145760930-21c528db-dc71-46e5-846c-62b6af4366e5.png)
-![image](https://user-images.githubusercontent.com/79688191/145760939-445f5615-fd93-4811-a6cc-329cf3d745b6.png)
 
 
 
