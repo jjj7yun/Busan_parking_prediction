@@ -6,7 +6,7 @@ QGIS기반 부산시 남구 주차장 최적 입지 선정
 # AWARD
 
 LH 한국토지주택공사 국토도시 데이터 분석 과제 장려상 수상
-![상장](https://user-images.githubusercontent.com/79688191/145766676-9f163d8b-0536-4f6a-8b41-d82ec48f7d91.jpg)
+<img src="https://user-images.githubusercontent.com/79688191/145766676-9f163d8b-0536-4f6a-8b41-d82ec48f7d91.jpg"  width="600" height="200"/>
 
 
 ## 분석개요
